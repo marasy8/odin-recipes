@@ -1,0 +1,20 @@
+h1 {
+    background-color: blue;
+    color: white;
+    font-size: 80px;
+}
+
+img {
+    height:800px;
+    width:auto;
+}
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+#random {
+    background-color: orange;
+    font-weight: lighter;
+}

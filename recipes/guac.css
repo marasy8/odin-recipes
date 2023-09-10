@@ -1,0 +1,23 @@
+h1 {
+    background: greenyellow;
+    color: orange;
+    font-size: 80px;
+    font-style: italic;
+}
+
+img {
+    height: 700px;
+    width: auto;
+}
+
+.headersz {
+    color:greenyellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li {
+    font-style: oblique;
+    font-size:large;
+    background: blue;
+    color:white;
+}
